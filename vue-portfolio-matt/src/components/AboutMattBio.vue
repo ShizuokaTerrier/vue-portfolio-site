@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div>
     <h1>About Matt</h1>
     <h2>The TL;DR</h2>
     <p>
@@ -20,4 +20,3 @@
 <script lang="ts">
 export default {};
 </script>
-<style lang=""></style>

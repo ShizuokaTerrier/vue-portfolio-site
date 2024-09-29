@@ -10,5 +10,3 @@
     <h4>Born in America, raised in the UK, seasoned in Japan</h4>
   </div>
 </template>
-
-<style scoped></style>
