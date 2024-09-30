@@ -1,20 +1,22 @@
 <template>
-  <div>
-    <h1>About Matt</h1>
-    <h2>The TL;DR</h2>
-    <p>
+  <div class="pt-20">
+    <h1 class="text-lg p-3">About Matt</h1>
+    <h2 class="italic p-3">The TL;DR</h2>
+    <p class="p-3 text-justify">
       After fourteen years as an English language instructor and materials
       writer, specializing in computer assisted language learning, I was ready
       for a fresh challenge. I found it in the Code Chrysalis Software
       Engineering Program. Post-bootcamp, I'm looking forward to applying my
       education expertise and programming skills to my next role.
     </p>
-    <div>
+    <button
+      class="m-6 px-2 py-2 bg-transparent hover:bg-slate-800 hover:text-white border rounded shadow-md"
+    >
       <a
         href="https://drive.google.com/file/d/1DKqhVbSop74QIWO1wA46rQHY5JwWtPw4/view?usp=sharing"
         >Download my Resume</a
       >
-    </div>
+    </button>
   </div>
 </template>
 <script lang="ts">

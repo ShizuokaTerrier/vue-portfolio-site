@@ -5,7 +5,9 @@ import TechnicalSkills from '@/components/TechnicalSkills.vue';
 </script>
 
 <template>
-  <AboutMattBio />
-  <TechnicalSkills />
-  <MyTimeLine />
+  <div class="bg-slate-300 min-h-full">
+    <AboutMattBio />
+    <TechnicalSkills />
+    <MyTimeLine />
+  </div>
 </template>

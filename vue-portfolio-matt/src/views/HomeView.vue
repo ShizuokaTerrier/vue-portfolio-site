@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue';
+import AboutMeGreeting from '@/components/AboutMeGreeting.vue';
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
+  <main class="bg-slate-300 min-h-full">
+    <AboutMeGreeting />
   </main>
 </template>
