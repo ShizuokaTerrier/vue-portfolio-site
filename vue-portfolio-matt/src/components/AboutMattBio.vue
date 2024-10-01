@@ -1,8 +1,8 @@
 <template>
   <div class="pt-20">
-    <h1 class="text-lg p-3">About Matt</h1>
+    <h1 class="mb-2 text-2xl font-semibold text-gray-900 p-3">About Matt</h1>
     <h2 class="italic p-3">The TL;DR</h2>
-    <p class="p-3 text-justify">
+    <p class="p-3 text-justify max-w-prose">
       After fourteen years as an English language instructor and materials
       writer, specializing in computer assisted language learning, I was ready
       for a fresh challenge. I found it in the Code Chrysalis Software
