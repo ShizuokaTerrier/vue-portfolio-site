@@ -33,7 +33,7 @@ import {} from '@fortawesome/free-solid-svg-icons';
         <li>Curriculum Management - design and implement curricula.</li>
       </ul>
     </div>
-    <div>
+    <div class="pb-16">
       <h2 class="mb-2 text-2xl font-semibold text-gray-900">
         Representative Partner of Square One Japan LLC.
       </h2>
@@ -60,5 +60,4 @@ import {} from '@fortawesome/free-solid-svg-icons';
       </ul>
     </div>
   </div>
-  <div class="pt-10"></div>
 </template>
