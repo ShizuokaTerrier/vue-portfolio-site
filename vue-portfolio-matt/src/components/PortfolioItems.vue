@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import LULU from '../assets/LULU-Frontend.png';
+import FindADoc from '../assets/Find a Doc.png';
 </script>
 
 <template>
@@ -10,7 +11,7 @@ import LULU from '../assets/LULU-Frontend.png';
       >
         Listen Up Level Up
       </h2>
-      <div class="border-sky-800 border-8 rounded-md">
+      <div>
         <img :src="LULU" alt="" />
       </div>
       <div class="flex flex-row justify-around p-4">
@@ -39,10 +40,10 @@ import LULU from '../assets/LULU-Frontend.png';
       <h2
         class="pt-5 px-5 mb-4 text-2xl font-semibold text-gray-900 text-center"
       >
-        Listen Up Level Up
+        Find a Doc
       </h2>
       <div class="border-sky-800 border-8 rounded-md">
-        <img :src="LULU" alt="" />
+        <img :src="FindADoc" alt="" />
       </div>
       <div class="flex flex-row justify-around p-4">
         <a

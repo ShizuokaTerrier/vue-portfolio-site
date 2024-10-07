@@ -3,7 +3,7 @@ import PortfolioItems from '@/components/PortfolioItems.vue';
 </script>
 
 <template>
-  <main class="bg-slate-300 min-h-full">
+  <main class="">
     <PortfolioItems />
   </main>
 </template>
