@@ -3,7 +3,7 @@ import AboutMeGreeting from '@/components/AboutMeGreeting.vue';
 </script>
 
 <template>
-  <main class="">
+  <main>
     <AboutMeGreeting />
   </main>
 </template>
