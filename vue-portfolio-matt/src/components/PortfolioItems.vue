@@ -55,6 +55,13 @@ import Strive from '../assets/Strive-Frontend.png';
         >
           Our Japan Life Github Page
         </a>
+        <a
+          class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
+          href="https://www.findadoc.jp/"
+          target="_blank"
+        >
+          Find-a-Doc Website
+        </a>
       </div>
       <p class="p-4 text-center max-w-prose mx-auto my-4">
         Find A Doc is an NPO open source project with the goal of helping all

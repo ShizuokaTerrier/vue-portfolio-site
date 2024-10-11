@@ -6,8 +6,9 @@
       After fourteen years as an English language instructor and materials
       writer, specializing in computer assisted language learning, I was ready
       for a fresh challenge. I found it in the Code Chrysalis Software
-      Engineering Program. Post-bootcamp, I'm looking forward to applying my
-      education expertise and programming skills to my next role.
+      Engineering Program. Post-bootcamp, I have been actively contributing in
+      open source projects such as Find-aDoc while looking for full-time
+      software engineering opportunities.
     </p>
     <button
       class="m-6 px-2 py-2 bg-transparent hover:bg-slate-800 hover:text-white border rounded shadow-md"
